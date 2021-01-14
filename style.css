@@ -1,17 +1,64 @@
-.bdy{
+.bdy
+{
+position: relative;
+top: 20px;
+}
 
-                margin-left:12%;
-                position: relative;
-                top: 20px;;
- }
+h2
+{
+background-color: rgb(36, 89, 36);
+padding: 40px;
+clear: both;
+color:white;
+font-size: 30px;
+}
 
- h2{
- text-align: center;
- }
+h4
+{
+background-color: rgb(186, 222, 187);
+padding: 6px;
+clear: both;
+}
 
- h4{
- text-align: center;
- }
- .prg{
- font-weight: bold;
- }
+.prg
+{
+font-weight: bold;
+}
+
+h3
+{
+background-color: rgb(186, 222, 187);
+padding: 6px;
+clear: both;
+}
+
+body
+{
+font-family: sans-serif;
+background-color: #edffff;
+margin-left:12%;
+margin-right:12%;
+}
+
+.contact
+{
+font-size:16px;
+}
+.sideleft
+{
+float: right;
+margin-left:55%;
+position: relative;
+bottom: 731px;
+
+}
+.sideright
+{
+float: left;
+margin-right:55%;
+}
+
+ul li
+{
+padding: 5px 0px;
+}
